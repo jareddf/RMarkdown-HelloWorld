@@ -16,7 +16,7 @@ to figure out how to *save* the **.md** file.
 
     plot(0,1)
 
-![](HelloWorld_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+![](unnamed-chunk-1-1.png)
 
 Now with no Echo:
 
