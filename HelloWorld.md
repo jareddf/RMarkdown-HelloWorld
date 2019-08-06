@@ -10,6 +10,16 @@ to figure out how to *save* the **.md** file.
 
     ## [1] "hello world"
 
+    1+3
+
+    ## [1] 4
+
+    plot(0,1)
+
+![](HelloWorld_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+
 Now with no Echo:
 
     ## [1] "hello world"
+
+    ## [1] 4
